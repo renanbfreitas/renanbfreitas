@@ -1,4 +1,4 @@
-### Renan Freitas 👋
+### Renan Freitas!
 ### Bem vindo ao meu perfil GitHub 👋
 <!--
 **renanbfreitas/renanbfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,9 +9,9 @@
 Aqui estão algumas idéias para você começar:
 
 -->
-- 🔭 Atualmente estou estudando desenvolvimento web na Trybe.
-- 🌱 Atualmente estou aprendendo fundamentos do desenvolvimento web.
-- ⚡ Curiosidade: Moro na Cidade Maravilhosa.
+- 🔭 Atualmente estou estudando desenvolvimento web na <strong>Trybe</strong>.
+- 🌱 Atualmente estou aprendendo <strong>Fundamentos do Desenvolvimento Web</strong>.
+- ⚡  Atualmente Moro na <strong>Cidade Maravilhosa</strong>.
 
 ### Ferramentas e Tecnologias:
 

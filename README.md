@@ -9,9 +9,9 @@
 Aqui estão algumas idéias para você começar:
 
 -->
-- 🔭 Atualmente estou estudando desenvolvimento web na <strong>Trybe</strong>.
-- 🌱 Atualmente estou aprendendo <strong>Fundamentos do Desenvolvimento Web</strong>.
-- ⚡  Atualmente Moro na <strong>Cidade Maravilhosa</strong>.
+- 🔭 Atualmente estudando desenvolvimento web na <strong>Trybe</strong>.
+- 🌱 Atualmente aprendendo <strong>Fundamentos do Desenvolvimento Web</strong>.
+- ⚡  Atualmente moro na <strong>Cidade Maravilhosa</strong>.
 
 ### Ferramentas e Tecnologias:
 

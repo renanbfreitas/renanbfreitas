@@ -1,4 +1,5 @@
-### Olá, sou o Renan Freitas!
+<img src="https://img.shields.io/static/v1?label=olá&message=sou o Renan Freitas!&color=blue&style=for-the-badge&logo=github"/>
+
 ![harveyfrases](https://user-images.githubusercontent.com/109007554/182051038-84a54411-0f65-4538-a295-bd355da3c6d2.png)
 ### Bem vindo ao meu perfil GitHub 👋
 <!--

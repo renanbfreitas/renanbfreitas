@@ -34,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" wid
 </div>
 
 <p></p>
-<img src="https://img.shields.io/static/v1?label=Histórico até aqui&message=Aprendizados&color=blue&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/static/v1?label=Histórico até aqui&message=Aprendizados&color=green&style=for-the-badge&logo=github"/>
 <div>
 <a href="https://github.com/renanbfreitas">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbfreitas&layout=compact&langs_count=7&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanbfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

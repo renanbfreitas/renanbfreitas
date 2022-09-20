@@ -13,7 +13,7 @@ Aqui estão algumas idéias para você começar:
 <img src="https://img.shields.io/static/v1?label=Bem Vindo&message=Meu Perfil no GitHub&color=yellow&style=for-the-badge&logo=github"/>
 
 - 👨🏼‍🏫  Estudando desenvolvimento web na <strong>Trybe</strong>.
-- 💻  Aprendendo <strong>Desenvolvimento Front-end</strong>.
+- 💻  Aprendendo desenvolvimento <strong>Front-end</strong>.
 - ⚡  Moro na <strong>Cidade Maravilhosa</strong>.
 
 <img src="https://img.shields.io/static/v1?label=Habilidades Aprendidas&message=Ferramentas e Tecnologias&color=red&style=for-the-badge&logo=github"/>
@@ -25,7 +25,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>           
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/><img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><img 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+          
+        
+          
+          
+          
 
 <img src="https://img.shields.io/static/v1?label=Como me encontrar&message=Contatos&color=orange&style=for-the-badge&logo=github"/>
 <div>

@@ -15,7 +15,7 @@ Aqui estão algumas idéias para você começar:
 - 👨🏼‍🏫  Estudando desenvolvimento web na <strong>Trybe</strong>.
 - 💻  Aprendendo <strong>Front-end</strong>.
 - ⚡  Moro na <strong>Cidade Maravilhosa</strong>.
-- ![image](https://user-images.githubusercontent.com/109007554/191275143-e780401a-f71e-4117-a8ab-159e9645e8a7.png)![image](https://user-images.githubusercontent.com/109007554/191275446-8f1b9541-a5f3-4002-95e1-b3466d953ef5.png)![image](https://user-images.githubusercontent.com/109007554/191274882-1583757b-8ec7-4c19-ab1d-f5f7b8f559d3.png)![image](https://user-images.githubusercontent.com/109007554/191274613-2c034b4d-3c1a-4e0c-bffc-a6b82c18ccc7.png) Meus <strong>Hábitos</strong>
+- ![image](https://user-images.githubusercontent.com/109007554/191275143-e780401a-f71e-4117-a8ab-159e9645e8a7.png)![image](https://user-images.githubusercontent.com/109007554/191275446-8f1b9541-a5f3-4002-95e1-b3466d953ef5.png)![image](https://user-images.githubusercontent.com/109007554/191274882-1583757b-8ec7-4c19-ab1d-f5f7b8f559d3.png)![image](https://user-images.githubusercontent.com/109007554/191274613-2c034b4d-3c1a-4e0c-bffc-a6b82c18ccc7.png) Meus <strong>Hábitos</strong>.
 
 
 <img src="https://img.shields.io/static/v1?label=Habilidades Aprendidas&message=Ferramentas e Tecnologias&color=red&style=for-the-badge&logo=github"/>

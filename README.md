@@ -1,5 +1,10 @@
 <img src="https://img.shields.io/static/v1?label=olá&message=sou o Renan Freitas!&color=blue&style=for-the-badge&logo=github"/>
 
+![euperfil](https://user-images.githubusercontent.com/109007554/191284345-926dc20d-7b63-4903-9185-46e61e729491.jpeg)
+
+
+<img src="https://img.shields.io/static/v1?label=Veja SUITS&message=Harvey Specter!&color=brown&style=for-the-badge&logo=github"/>
+
 ![harveyfrases](https://user-images.githubusercontent.com/109007554/182051038-84a54411-0f65-4538-a295-bd355da3c6d2.png)
 <!--
 **renanbfreitas/renanbfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

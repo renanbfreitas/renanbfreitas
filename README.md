@@ -13,7 +13,7 @@ Aqui estão algumas idéias para você começar:
 <img src="https://img.shields.io/static/v1?label=Bem Vindo&message=Meu Perfil no GitHub&color=yellow&style=for-the-badge&logo=github"/>
 
 - 👨🏼‍🏫  Estudando desenvolvimento web na <strong>Trybe</strong>.
-- 💻  Aprendendo desenvolvimento <strong>Front-end</strong>.
+- 💻  Aprendendo <strong>Front-end</strong>.
 - ⚡  Moro na <strong>Cidade Maravilhosa</strong>.
 
 <img src="https://img.shields.io/static/v1?label=Habilidades Aprendidas&message=Ferramentas e Tecnologias&color=red&style=for-the-badge&logo=github"/>

@@ -1,18 +1,24 @@
+<div align="center">
 <img src="https://img.shields.io/static/v1?label=olá&message=sou o Renan Freitas!&color=blue&style=for-the-badge&logo=github"/>
 
 ![euperfil](https://user-images.githubusercontent.com/109007554/191284345-926dc20d-7b63-4903-9185-46e61e729491.jpeg)
-- 👨🏼‍🏫  Estudando Desenvolvimento Web na <strong>Trybe</strong>.
-- 💻  Aprendendo <strong>Front-end</strong>.
-- ⚡  Moro na <strong>Cidade Maravilhosa</strong>.
+ - 👨🏼‍🏫  Estudando Desenvolvimento Web na <strong>Trybe</strong>.
+ - 💻  Aprendendo <strong>Front-end</strong>.
+ - ⚡  Moro na <strong>Cidade Maravilhosa</strong>.
+</div>
+
 ##
+<div align="center">
 <img src="https://img.shields.io/static/v1?label=Veja SUITS&message=Harvey Specter!&color=brown&style=for-the-badge&logo=github"/>
 
 ![harveyfrases](https://user-images.githubusercontent.com/109007554/182051038-84a54411-0f65-4538-a295-bd355da3c6d2.png)
 <!--
 **renanbfreitas/renanbfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+</div>
 -->
+
 ##
+<div align="center">
 <img src="https://img.shields.io/static/v1?label=Habilidades Aprendidas&message=Ferramentas e Tecnologias&color=red&style=for-the-badge&logo=github"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/><img 
@@ -25,6 +31,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-orig
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/><img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+</div>
+
 ##             
 <img src="https://img.shields.io/static/v1?label=Como me encontrar&message=Contatos&color=orange&style=for-the-badge&logo=github"/>
 <div>
@@ -39,4 +47,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbfreitas&layout=compact&langs_count=7&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanbfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+##
 ![snake gif](https://github.com/renanbfreitas/renanbfreitas/blob/output/github-contribution-grid-snake.svg)

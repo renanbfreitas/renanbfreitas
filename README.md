@@ -3,7 +3,7 @@
 <p></p>
 <img src="https://user-images.githubusercontent.com/109007554/191284345-926dc20d-7b63-4903-9185-46e61e729491.jpeg" width="250" height="220">
 <p></p>
-<i><b>Olá</b> :wave:, sou o <b>Renan Freitas</b>, moro na Cidade Maravilhosa e iniciando minha jornada em Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></i>. 💻
+<i><b>Olá</b> :wave:, sou o <b>Renan Freitas</b>, moro na <b>Cidade Maravilhosa</b> e iniciando minha jornada em <b>Desenvolvimento Web</b> na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></i>.
 
 </div>
 

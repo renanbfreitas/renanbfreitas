@@ -2,9 +2,9 @@
 <img src="https://img.shields.io/static/v1?label=olá&message=sou o Renan Freitas!&color=blue&style=for-the-badge&logo=github"/>
 
 ![euperfil](https://user-images.githubusercontent.com/109007554/191284345-926dc20d-7b63-4903-9185-46e61e729491.jpeg)
- - 👨🏼‍🏫  Estudando Desenvolvimento Web na <strong>Trybe</strong>.
- - 💻  Aprendendo <strong>Front-end</strong>.
- - ⚡  Moro na <strong>Cidade Maravilhosa</strong>.
+
+<i><b>Olá</b> :wave:, sou o <b>Renan Freitas</b>, moro na Cidade Maravilhosa e iniciando minha jornada em Desenvolvimento Web na <a href="https://www.betrybe.com/" target="_blank">Trybe</a></i>. 💻
+
 </div>
 
 ---

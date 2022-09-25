@@ -40,3 +40,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
 </div>
 
 ##  
+![snake gif](https://github.com/renanbfreitas/renanbfreitas/blob/output/github-contribution-grid-snake.svg)

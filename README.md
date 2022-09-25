@@ -39,5 +39,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbfreitas&layout=compact&langs_count=7&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanbfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##  
 ![snake gif](https://github.com/renanbfreitas/renanbfreitas/blob/output/github-contribution-grid-snake.svg)

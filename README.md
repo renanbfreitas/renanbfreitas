@@ -7,7 +7,7 @@
  - ⚡  Moro na <strong>Cidade Maravilhosa</strong>.
 </div>
 
-##
+---
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=Veja SUITS&message=Harvey Specter!&color=brown&style=for-the-badge&logo=github"/>
 
@@ -17,7 +17,7 @@
 </div>
 -->
 
-##
+---
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=Habilidades Aprendidas&message=Ferramentas e Tecnologias&color=red&style=for-the-badge&logo=github"/>
 
@@ -33,19 +33,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-w
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
 </div>
 
-##             
+---             
 <img src="https://img.shields.io/static/v1?label=Como me encontrar&message=Contatos&color=orange&style=for-the-badge&logo=github"/>
 <div>
 <a href="https://www.instagram.com/renanbfreitas/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renan-freitas-19390b116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-##
+---
 <img src="https://img.shields.io/static/v1?label=Histórico até aqui&message=Aprendizados&color=green&style=for-the-badge&logo=github"/>
 <div>
 <a href="https://github.com/renanbfreitas">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanbfreitas&layout=compact&langs_count=7&theme=dracula"/><img height="150em" src="https://github-readme-stats.vercel.app/api?username=renanbfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-##
+---
 ![snake gif](https://github.com/renanbfreitas/renanbfreitas/blob/output/github-contribution-grid-snake.svg)

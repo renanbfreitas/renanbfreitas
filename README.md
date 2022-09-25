@@ -50,4 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wor
 </div>
 
 ---
+<img src="https://img.shields.io/static/v1?label=Você sempre tem uma escolha&message=Vamos por Mais&color=orange&style=for-the-badge&logo=github"/>
+<p></p>
+
 ![snake gif](https://github.com/renanbfreitas/renanbfreitas/blob/output/github-contribution-grid-snake.svg)
